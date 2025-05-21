@@ -4,7 +4,7 @@ An E-Commerce Website for farmers to sell their produce at better rates and buye
 
 #### The applications supports CURD operation for products uploaded by farmers , and it is completely dynamic website build with MySql database and PHP as backend. 
 
-### Starter Images
+
 
 
 <div align= "center"> 
