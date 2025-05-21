@@ -16,7 +16,7 @@ An E-Commerce Website for farmers to sell their produce at better rates and buye
 
 <div align= "center">  
   
-## <a href = "https://www.youtube.com/watch?v=OQ0eBiFRNaY" > Click Here </a> To Watch Demo Video
+## <a href = "https://www.youtube.com/watch?v=OQ0eBiFRNaY" > Click Here </a> To Watch Video
 
 </div>
 
