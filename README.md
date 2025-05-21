@@ -8,11 +8,7 @@ An E-Commerce Website for farmers to sell their produce at better rates and buye
 
 
 <div align= "center"> 
-<img src = "./images/crops/minji3.png" width = 400 height = 250 align = center> <br> <hr> <br>
 
-<img src = "./images/Homepage/homepage.png" width = 400 height = 250> <p>Buyer Homepage</p> <hr>
-
-<img src = "./images/Homepage/products.png" width = 400 height = 250> <p>Products </p> <hr>
 
  
 
